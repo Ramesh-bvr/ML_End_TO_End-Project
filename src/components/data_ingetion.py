@@ -24,5 +24,5 @@ class DataIngetion:
         try:
             df = pd.read_csv("")
         except:
-            pass
+            pass f
 
